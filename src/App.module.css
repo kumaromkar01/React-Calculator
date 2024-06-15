@@ -1,0 +1,7 @@
+.calculator{
+      margin: 50px auto;
+      border: 3px solid rgba(54, 31, 31, 0.991);
+      width: 300px;
+      padding: 10px;
+      box-shadow: 5px 5px 10px black;
+}
